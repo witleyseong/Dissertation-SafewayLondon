@@ -1,0 +1,12 @@
+# Backend
+node_modules/
+.env
+Backend/db/crime_db/
+crime_db.zip
+
+# Frontend
+Frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
